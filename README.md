@@ -1,5 +1,5 @@
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
-<h3 align="center"> A clean, beautiful and responsive  </h3>
+<h1 align="center"> My Portfolio 🔥 </h1> 
+<h3 align="center"> A clean, beautiful and responsive Portfolio website   </h3>
 
 # Sections 📚
 
